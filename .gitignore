@@ -1,0 +1,9 @@
+training-runs
+data
+*.png
+*.jpg
+*.npy
+*.np
+*.ipnyb_checkpoint
+*.json
+
