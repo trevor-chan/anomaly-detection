@@ -6,4 +6,4 @@ data
 *.np
 *.ipnyb_checkpoint
 *.json
-
+wandb
